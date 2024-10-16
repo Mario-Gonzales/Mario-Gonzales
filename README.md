@@ -17,9 +17,4 @@
 2. **Automatización de Tareas**: Implementé scripts automatizados (Bash, Python) para la administración de sistemas, lo que redujo el tiempo de inactividad en un 40%.
 3. **Seguridad de la Información**: Establecí políticas de seguridad en redes empresariales, aplicando firewalls avanzados y auditorías de seguridad.
 
-## 📫 Contacto
-
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- **GitHub**: [github.com/tuusuario](https://github.com/tuusuario)
 
